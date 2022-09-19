@@ -36,8 +36,7 @@ while (~converged)
     end
     
     
-    
-    if (c == c_m1 || (TOL>=0 && TOL<=0.3*1e6)|| range(Mx) == 0)
+    if (c == c_m1 || (TOL>=0 && TOL<=0.3*1e6)|| (max(Mx) - min(Mx)) == 0)
         
         converged = true;
         disp('%% RR Recovery COMPLETED %%')
