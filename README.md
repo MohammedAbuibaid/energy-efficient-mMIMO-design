@@ -20,5 +20,5 @@ mohammedaaabuibaid(@)cmail[DOT]carleton{dot}ca
 
 ## Cite This:
 ```
-@INPROCEEDINGS{abuibaid2022mmimo,  author={Abuibaid, Mohammed and St-Hilaire, Marc and Aldirmaz-Colak, Sultan and Eid, Imad},  booktitle={IEEE 2022 Future Networks World Forum (FNWF'22)},title={Energy-Efficient Massive MIMO Design: Optimal Number of Antennas Ensuring Guaranteed Bit Rate},   year={2022},  volume={},  number={},  pages={},  doi={}}
+@INPROCEEDINGS{abuibaid2022mmimo,  author={Abuibaid, Mohammed and St-Hilaire, Marc and Aldirmaz-Colak, Sultan and Eid, Imad},  booktitle={IEEE 2022 Future Networks World Forum (FNWF)},title={Energy-Efficient Massive MIMO Design: Optimal Number of Antennas Ensuring Guaranteed Bit Rate},   year={2022},  volume={},  number={},  pages={328-333},  doi={10.1109/FNWF55208.2022.00064}}
 ```
